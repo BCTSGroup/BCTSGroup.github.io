@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on BCTS</title>
-    <link>https://junpni.github.io/news/</link>
+    <link>https://BCTSGroup.github.io/news/</link>
     <description>Recent content in News on BCTS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="https://junpni.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://BCTSGroup.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Depth 1</title>
-        <link>https://junpni.github.io/news/depth1/</link>
+        <link>https://BCTSGroup.github.io/news/depth1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/depth1/</guid>
+        <guid>https://BCTSGroup.github.io/news/depth1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Getting Started</title>
-        <link>https://junpni.github.io/news/gettingstarted/</link>
+        <link>https://BCTSGroup.github.io/news/gettingstarted/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/gettingstarted/</guid>
+        <guid>https://BCTSGroup.github.io/news/gettingstarted/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Content Management</title>
-        <link>https://junpni.github.io/news/contentmanagement/</link>
+        <link>https://BCTSGroup.github.io/news/contentmanagement/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/contentmanagement/</guid>
+        <guid>https://BCTSGroup.github.io/news/contentmanagement/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>https://junpni.github.io/news/relatedcontent/</link>
+        <link>https://BCTSGroup.github.io/news/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/relatedcontent/</guid>
+        <guid>https://BCTSGroup.github.io/news/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>https://junpni.github.io/news/pageresources/</link>
+        <link>https://BCTSGroup.github.io/news/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/pageresources/</guid>
+        <guid>https://BCTSGroup.github.io/news/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>https://junpni.github.io/news/pagebundles/</link>
+        <link>https://BCTSGroup.github.io/news/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/pagebundles/</guid>
+        <guid>https://BCTSGroup.github.io/news/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>https://junpni.github.io/news/contentfortmats/</link>
+        <link>https://BCTSGroup.github.io/news/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/contentfortmats/</guid>
+        <guid>https://BCTSGroup.github.io/news/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>https://junpni.github.io/news/imageprocessing/</link>
+        <link>https://BCTSGroup.github.io/news/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>https://junpni.github.io/news/imageprocessing/</guid>
+        <guid>https://BCTSGroup.github.io/news/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
