@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "News"
+  name = "News"
+  url = "news"
+  weight = 1
+# weight is represent the order.
+[[main]]
+  identifier = "Research"
+  name = "Research"
+  url = "research"
+  weight = 2
+
+[[main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "blog"
+  weight = 3
