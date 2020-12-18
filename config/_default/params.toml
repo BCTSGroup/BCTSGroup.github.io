@@ -3,7 +3,7 @@ logoText = "BCTS"
 logoType = "short" # long, short
 description = "Blockchain technology and system research group."
 
-themeOptions = ["light", "dark"]
+themeOptions = ["dark", "light"]
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
@@ -27,7 +27,7 @@ paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zdoc"
+github = "https://github.com/BCTSGroup/BCTSGroup.github.io"
 
 # comment
 enableComment = false
