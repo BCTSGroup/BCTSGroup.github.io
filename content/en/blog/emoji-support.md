@@ -52,5 +52,5 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 </style>
 {{< /css.inline >}}
 
-[<font color=CornflowerBlue>Towards A Novel Architecture for Enabling Interoperability Amongst Multiple Blockchains</font>](/pdf/COMMAG.pdf)
+[<font color=CornflowerBlue>PDF 测试</font>](https://bctsgroup.github.io/pdf/COMMAG.pdf)
 
