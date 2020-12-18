@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Junpei Ni"
 title = "Placeholder Text"
 date = "2019-03-09"
 #description = "Lorem Ipsum Dolor Si Amet"
@@ -7,7 +7,7 @@ tags = [
     "markdown",
     "text",
 ]
-image = "images/landscape.jpg"
+
 +++
 
 Lorem est tota propiore conpellat pectoribus de

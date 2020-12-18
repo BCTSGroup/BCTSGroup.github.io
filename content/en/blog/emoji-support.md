@@ -1,12 +1,12 @@
 +++
-author = "Hugo Authors"
+author = "Junpei Ni"
 title = "Emoji Support"
 date = "2019-03-05"
 # description = "Guide to emoji usage in Hugo"
 tags = [
     "emoji",
 ]
-image = "images/mountains.jpg"
+
 +++
 
 Lorem est tota propiore conpellat pectoribus de
@@ -51,6 +51,4 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
 }
 </style>
 {{< /css.inline >}}
-
-[<font color=CornflowerBlue>PDF 测试</font>](https://bctsgroup.github.io/pdf/COMMAG.pdf)
 

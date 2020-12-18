@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Junpei Ni"
 title = "Rich Content"
 date = "2019-03-10"
 # description = "A brief description of Hugo Shortcodes"
@@ -7,7 +7,7 @@ tags = [
     "shortcodes",
     "privacy",
 ]
-image = "images/mountain.jpg"
+
 +++
 
 Lorem est tota propiore conpellat pectoribus de
