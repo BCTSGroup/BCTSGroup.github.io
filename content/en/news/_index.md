@@ -1,8 +1,8 @@
 ---
 title: "News"
-description: "test post index"
+description: "Lab news"
 date: 2020-01-11T14:09:21+09:00
 draft: false
 ---
 
-News page.
+Lab news.

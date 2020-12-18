@@ -85,7 +85,7 @@ sections:
     cards:
       - subtitle: Network
         subtitlePosition: center
-        description: "Network group intro."
+        #description: "Network group intro."
         image: images/section/network.png
         color: white
         #button: 
@@ -97,7 +97,7 @@ sections:
         #  bgcolor: '#283593'
       - subtitle: Data Management
         subtitlePosition: center
-        description: "Data management group intro."
+        #description: "Data management group intro."
         image: images/section/dataManagement.png
         color: white
         #button: 
@@ -109,7 +109,7 @@ sections:
         #  bgcolor: '#283593'
       - subtitle: Consensus
         subtitlePosition: center
-        description: "Consensus group intro."
+        #description: "Consensus group intro."
         image: images/section/consensus.png
         color: white
         #button: 
