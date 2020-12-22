@@ -10,7 +10,7 @@ weight: 1
 
 | Date     | Lecturers    | Paper title                                                  | Conference | Slides                                                       |
 | -------- | ------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
-| 20200302 | Rui Han      | RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding | IoTJ'20    | [<font color=CornflowerBlue>slides</font>](https://https://gitee.com/junpni/bcts-resource/blob/master/pdf/slide2020/%E3%80%9020200302%E9%9F%A9%E7%9D%BF-%E3%80%91RepChain.pptx) |
+| 20200302 | Rui Han      | RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding | IoTJ'20    | [<font color=CornflowerBlue>slides</font>](https://gitee.com/junpni/bcts-resource/blob/master/pdf/slide2020/%E3%80%9020200302%E9%9F%A9%E7%9D%BF-%E3%80%91RepChain.pptx) |
 | 20200312 | Jian Chang   | FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs | SGMOD'10   |                                                              |
 | 20200318 | Chenchen Li  | Who Are the Phishers?  Phishing Scam Detection on Ethereum via Network Embedding | TSMC'20    |                                                              |
 | 20200326 | Chaofan Wang | Market Manipulation of Bitcoin: Evidence from Mining the Mt.Gox Transaction Network | INFOCOM'19 |                                                              |
