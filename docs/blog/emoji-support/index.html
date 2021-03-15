@@ -17,9 +17,9 @@
 
 <script defer src="/js/lazysizes.min.31dd6a2d3a1ec0f78a8df007535cf23f03aeb5c70f026e6d6a19dac3b3acc340.js"></script>
 
-<script defer src="/js/helper/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
+<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.93a331f96194789a542f33690bbe4f0c102c7e78ffc018217f5a1c33010bad91.js"></script>
+<script defer src="/js/helper/fadeinout.min.9fb19682560d5fa5596fffec85da605067c4acc86aad05add4d8fff9d362a446.js"></script>
 
 <script>
   "use strict";
@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://BCTSGroup.github.io/blog/emoji-support/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.59.1" />
+<meta name="generator" content="Hugo 0.81.0" />
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://BCTSGroup.github.io/blog/emoji-support/">
@@ -1114,7 +1114,7 @@
     "datePublished": "2019-03-05T00:00:00Z",
     "dateModified": "2019-03-05T00:00:00Z",
     "url" : "https://BCTSGroup.github.io/blog/emoji-support/",
-    "description": "\u003cp\u003eLorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores …\u003c/p\u003e",
+    "description": "\u003cp\u003eLorem est tota propiore conpellat pectoribus de\u003cbr /\u003e pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice\u003cbr /\u003e subde tollit usus habet Arctonque, furores …\u003c/p\u003e",
     "keywords": ["emoji"],
     "author": {
       "@type": "Person",
@@ -1193,29 +1193,6 @@
   <li class="">
     <a href="https://BCTSGroup.github.io/blog/markdown-syntax/"
       class="menu__title ">Markdown Syntax Guide</a>
-  </li>
-  
-
-    
-      
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  <li class="">
-    <a href="https://BCTSGroup.github.io/blog/rich-content/"
-      class="menu__title ">Rich Content</a>
   </li>
   
 
@@ -1634,29 +1611,31 @@
   
 
   <article class="single__contents" data-dir="ltr">
-    <p>Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+    <p>Lorem est tota propiore conpellat pectoribus de<br />
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice<br />
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc<br />
 caluere tempus</p>
-
-<p>Emoji can be enabled in a Hugo project in a number of ways.
+<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <!--more-->
-The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
-
-<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-
-<p><p><span class="nowrap"><span class="emojify">🙈</span> <code>🙈</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>🙉</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>🙊</code></span></p>
-<br></p>
-
-<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
-
+<p>The <a href="https://gohugo.io/functions/emojify/" target="_blank"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes" target="_blank">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/" target="_blank">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>🙈</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>🙉</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>🙊</code></span></p>
+<br>
+<p>The <a href="http://www.emoji-cheat-sheet.com/" target="_blank">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
 <hr />
-
 <p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-html" data-lang="html">.emoji {
 font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}</code></pre></div>
+}</code></pre></td></tr></table>
+</div>
+</div>
   </article>
 </div>
       
@@ -1684,7 +1663,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
         <div class="toc">
   <h6 class="toc__label">What&#39;s on this Page</h6>
   <div class="toc__body">
-    
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
       
@@ -2005,7 +1984,7 @@ font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,And
       <div class="lmr">
         
           <p class="caption">
-            &copy;2021, All Rights Reserved
+            ©2021, All Rights Reserved
           </p>
           
               <p class="caption">Powered by <a href="https://gohugo.io/" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zdoc" rel="noreferrer">zDoc theme</a></p>

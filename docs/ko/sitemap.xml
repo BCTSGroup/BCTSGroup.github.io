@@ -203,41 +203,6 @@
   </url>
   
   <url>
-    <loc>https://BCTSGroup.github.io/ko/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://BCTSGroup.github.io/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://BCTSGroup.github.io/ko/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://BCTSGroup.github.io/ko/ko/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://BCTSGroup.github.io/ko/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://BCTSGroup.github.io/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://BCTSGroup.github.io/ko/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
     <loc>https://BCTSGroup.github.io/ko/ko/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>

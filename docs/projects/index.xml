@@ -15,12 +15,22 @@
     
       
       <item>
-        <title>Aplications Tools</title>
-        <link>https://BCTSGroup.github.io/projects/aplications-tools/</link>
+        <title>Research projects</title>
+        <link>https://BCTSGroup.github.io/projects/research-projects/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/projects/aplications-tools/</guid>
-        <description>Basic Structure Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
+        <guid>https://BCTSGroup.github.io/projects/research-projects/</guid>
+        <description>Basic Structure ![basic structure](https://bctsgroup.github.io/images/contributions/basic structure.jpg)
+Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
+      </item>
+      
+      <item>
+        <title>Aplications</title>
+        <link>https://BCTSGroup.github.io/projects/applications/</link>
+        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/projects/applications/</guid>
+        <description>( BookChain ) The current mobile bookcrossing system generally has problems such as lack of trust, ineffective supervision, and low circulation efficiency, which have seriously affected the normal operation of bookcrossing. BookChain integrates bookcrossing activities with emerging blockchain technology, leverages the open, transparent, traceable, and decentralized characteristics of the blockchain to record the circulation information of books on the chain, so that participants can trace the historical circulation records of books, greatly reducing the possibility of losing books and rebuilding the trust in bookcrossing.</description>
       </item>
       
       <item>
