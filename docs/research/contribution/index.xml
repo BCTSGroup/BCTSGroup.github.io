@@ -66,8 +66,7 @@ BlockSim has been developed with extreme scalability and support for network dyn
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/research/contribution/projects/</guid>
-        <description>Basic Structure ![basic structure](https://bctsgroup.github.io/images/contributions/basic structure.jpg)
-Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
+        <description>Basic Structure Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
       </item>
       
       <item>
@@ -76,7 +75,7 @@ Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) appr
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/research/contribution/publications/</guid>
-        <description>Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, Hai Jin, “LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin“, IEEE ICDCS, Singapore, 2020. Weifeng Hao, Jiajie Zeng, Xiaohai Dai, Jiang Xiao, Qiang-Sheng Hua, Hanhua Chen, Kuan-Ching Li, Hai Jin, “[Towards A Trust-Enhanced Blockchain P2P Topology for Enabling Fast and Reliable Broadcast](https://bctsgroup.github.io/pdf/towards blockchainp2p.pdf)”, IEEE TNSM, 2020. Wenhui Yang, Xiaohai Dai, Jiang Xiao, Hai Jin, “LDV: A Lightweight DAG-based Blockchain for Vehicular Social Networks“, IEEE TVT, 2020.</description>
+        <description>Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, Hai Jin, “LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin“, IEEE ICDCS, Singapore, 2020. Weifeng Hao, Jiajie Zeng, Xiaohai Dai, Jiang Xiao, Qiang-Sheng Hua, Hanhua Chen, Kuan-Ching Li, Hai Jin, “Towards A Trust-Enhanced Blockchain P2P Topology for Enabling Fast and Reliable Broadcast”, IEEE TNSM, 2020. Wenhui Yang, Xiaohai Dai, Jiang Xiao, Hai Jin, “LDV: A Lightweight DAG-based Blockchain for Vehicular Social Networks“, IEEE TVT, 2020.</description>
       </item>
       
     

@@ -1,5 +1,5 @@
 ---
-title: "papers"
+title: "Papers"
 description: ""
 date: 2020-12-10T00:10:48+09:00
 draft: false

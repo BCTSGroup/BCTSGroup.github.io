@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://BCTSGroup.github.io/publications/papers/</loc>
+    <lastmod>2020-12-10T00:10:48+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://BCTSGroup.github.io/research/contribution/patents/</loc>
     <lastmod>2020-12-10T00:10:48+09:00</lastmod>
   </url>
@@ -79,6 +84,16 @@
   
   <url>
     <loc>https://BCTSGroup.github.io/projects/applications/</loc>
+    <lastmod>2020-12-10T00:10:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BCTSGroup.github.io/publications/patents/</loc>
+    <lastmod>2020-12-10T00:10:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BCTSGroup.github.io/publications/awards/</loc>
     <lastmod>2020-12-10T00:10:48+09:00</lastmod>
   </url>
   
@@ -184,6 +199,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://BCTSGroup.github.io/tags/themes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://BCTSGroup.github.io/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://BCTSGroup.github.io/ko/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://BCTSGroup.github.io/tags/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://BCTSGroup.github.io/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://BCTSGroup.github.io/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://BCTSGroup.github.io/ko/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://BCTSGroup.github.io/tags/shortcodes/"
                 />
   </url>
   
