@@ -77,17 +77,22 @@ sections:
 <br> BCTS (short for blockchain technology and system) is a research group aiming to promote the scalability of the blockchain systems and explore the potential application scenario of the blockchain technology. Also, BCTS group tries to dig out values by analyzing the blockchain data, and enable cross-chain value transfer and data sharing.
 "
     header: 
-      title: Who are we
+      title: Research Fundation
       hlcolor: "#8bc34a"
       color: '#fff'
       fontSize: 32
       width: 220
     cards:
-      - subtitle: Network
+      - subtitle: 
         subtitlePosition: center
-        #description: "Network group intro."
-        image: images/section/network.png
+        #description: "Research fundation."
+        image: images/section/fundation.png
         color: white
+      #- subtitle: Network
+      #  subtitlePosition: center
+        #description: "Network group intro."
+      #  image: images/section/network.png
+      #  color: white
         #button: 
         #  name: Naver
         #  link: https://gohugo.io/
@@ -95,11 +100,11 @@ sections:
         # target: _blank
         #  color: 'white'
         #  bgcolor: '#283593'
-      - subtitle: Data Management
-        subtitlePosition: center
+      #- subtitle: Data Management
+      #  subtitlePosition: center
         #description: "Data management group intro."
-        image: images/section/dataManagement.png
-        color: white
+      #  image: images/section/dataManagement.png
+      #  color: white
         #button: 
         #  name: Google
         #  link: https://gohugo.io/
@@ -107,11 +112,11 @@ sections:
         #  target: _blank
         #  color: 'white'
         #  bgcolor: '#283593'
-      - subtitle: Consensus
-        subtitlePosition: center
+      #- subtitle: Consensus
+      #  subtitlePosition: center
         #description: "Consensus group intro."
-        image: images/section/consensus.png
-        color: white
+      #  image: images/section/consensus.png
+      #  color: white
         #button: 
         #  name: Yahoo
         #  link: https://gohugo.io/
