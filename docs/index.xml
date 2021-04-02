@@ -79,12 +79,14 @@ BlockSim has been developed with extreme scalability and support for network dyn
       </item>
       
       <item>
-        <title>Papers</title>
+        <title>papers</title>
         <link>https://BCTSGroup.github.io/publications/papers/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/publications/papers/</guid>
-        <description>Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, Hai Jin, “LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin“, IEEE ICDCS, Singapore, 2020. Weifeng Hao, Jiajie Zeng, Xiaohai Dai, Jiang Xiao, Qiang-Sheng Hua, Hanhua Chen, Kuan-Ching Li, Hai Jin, “Towards A Trust-Enhanced Blockchain P2P Topology for Enabling Fast and Reliable Broadcast”, IEEE TNSM, 2020. Wenhui Yang, Xiaohai Dai, Jiang Xiao, Hai Jin, “LDV: A Lightweight DAG-based Blockchain for Vehicular Social Networks“, IEEE TVT, 2020.</description>
+        <description>Hai Jin, and Jiang Xiao, Towards Trustworthy Blockchain Systems in the Era of “Internet of Value”: Development, Challenges, and Future Trends. In Science China Information Science, 2021, https://doi.org/10.1007/s11432-020-3183-0. (CCF B)
+ Jian Chang, Junpei Ni, Jiang Xiao, Xiaohai Dai, Hai Jin. SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control. In IEEE Internet of Things Journal, 2021. (JCR Q1, IF: 9.936)
+ Chaofan Wang, Xiaohai Dai, Jiang Xiao, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.</description>
       </item>
       
       <item>
@@ -138,7 +140,7 @@ BlockSim has been developed with extreme scalability and support for network dyn
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/publications/patents/</guid>
-        <description> 肖江，戴小海，杨文辉，金海，一种适用于以太坊的用户画像构建方法及系统，专利号：201911295828.3，2020-1-15，中国. 肖江，曾家杰，戴小海，杨文辉，郝威峰，王超凡，金海，一种基于区块链技术的图书漂流方法及系统，专利号：201911133428.2，2019-12-23，中国. 陆枫，甘露，肖江，金海，胡侃，一种基于区块链的数据读写方法及区块链网络结构，专利号：201910323667.8，2019-4-22，中国. 肖江, 杨文辉，戴小海，金海，一种基于DAG的区块链的跨链交互方法和系统，专利号：201911099003.4，2019-1-19，中国.  </description>
+        <description> 肖江，戴小海，杨文辉，金海，一种适用于以太坊的用户画像构建方法及系统，专利号：201911295828.3，2020-1-15，中国. 肖江，曾家杰，戴小海，杨文辉，郝威峰，王超凡，金海，一种基于区块链技术的图书漂流方法及系统，专利号：201911133428.2，2019-12-23，中国. 陆枫，甘露，肖江，金海，胡侃，一种基于区块链的数据读写方法及区块链网络结构，专利号：201910323667.8，2019-4-22，中国. 肖江, 杨文辉，戴小海，金海，一种基于DAG的区块链的跨链交互方法和系统，专利号：201911099003.4，2019-1-19，中国. 肖江；曾家杰，张世桀，金海，基于区块链跨链交互的动态覆盖网络拓扑构建方法及装置，申请号： 202011421191.0, 中国. 陆枫，甘露，肖江，金海，胡侃，一种基于区块链的数据读写方法及区块链网络结构 2019-4-22, 中国, 专利号：2019103236678. 肖江，韩睿，戴小海，常健，金海，一种面向多链数据关联性的高效溯源查询方法，申请号：XXX, 中国.  </description>
       </item>
       
       <item>
