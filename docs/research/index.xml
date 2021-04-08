@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on BCTS</title>
+    <title>Group Meeting on BCTS</title>
     <link>https://BCTSGroup.github.io/research/</link>
-    <description>Recent content in Research on BCTS</description>
+    <description>Recent content in Group Meeting on BCTS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
@@ -15,20 +15,20 @@
     
       
       <item>
-        <title>Contribution</title>
-        <link>https://BCTSGroup.github.io/research/contribution/</link>
+        <title>2020</title>
+        <link>https://BCTSGroup.github.io/research/2020/</link>
         <pubDate>Sat, 12 Dec 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/research/contribution/</guid>
+        <guid>https://BCTSGroup.github.io/research/2020/</guid>
         <description></description>
       </item>
       
       <item>
-        <title>Group meeting</title>
-        <link>https://BCTSGroup.github.io/research/group-meeting/</link>
+        <title>2021</title>
+        <link>https://BCTSGroup.github.io/research/2021/</link>
         <pubDate>Sat, 12 Dec 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/research/group-meeting/</guid>
+        <guid>https://BCTSGroup.github.io/research/2021/</guid>
         <description></description>
       </item>
       

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 on BCTS</title>
+    <link>https://BCTSGroup.github.io/research/2021/</link>
+    <description>Recent content in 2021 on BCTS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://BCTSGroup.github.io/research/2021/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>2021 Spring</title>
+        <link>https://BCTSGroup.github.io/research/2021/2021_spring/</link>
+        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/research/2021/2021_spring/</guid>
+        <description>   Date Lecturers Paper title Conference Slides     20210225 Jiajie Zeng FSTR-Funds Skewness Aware Transaction Routing DSN&amp;rsquo;20 Download   20210225 Xiaohai Dai HotStuff- BFT Consensus with Linearity and Responsiveness PODC&amp;rsquo;19 Download   20210304 Rui Han LedgerDB - a centralized ledger database for universal audit and verification VLDB&amp;rsquo;20 Download   20210311 Bingru Si Perigee-Efficient Peer-to-Peer Network Design for Blockchains PODC&amp;rsquo;20 Download   20210311 Shuohua Dong High Throughput Cryptocurrency Routing in Payment Channel Networks NSDI&amp;rsquo;20 Download    </description>
+      </item>
+      
+    
+  </channel>
+</rss>

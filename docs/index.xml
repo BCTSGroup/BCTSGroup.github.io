@@ -16,70 +16,33 @@
       
       <item>
         <title>2020 Fall</title>
-        <link>https://BCTSGroup.github.io/research/group-meeting/2020/2020_fall/</link>
+        <link>https://BCTSGroup.github.io/research/2020/2020_fall/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/research/group-meeting/2020/2020_fall/</guid>
+        <guid>https://BCTSGroup.github.io/research/2020/2020_fall/</guid>
         <description>   Date Lecturers Paper title Conference Slides     20200902 Chenchen Li A Data Science Approach for Detecting Honeypots in Ethereum ICBC&amp;rsquo;20 Download   20200902 Jiajie Zeng Hyperledger Fabric – Network - Download   20200917 Shijie Zhang Erlay: Efficient Transaction Relay for Bitcoin CCS&amp;rsquo;19 Download   20200917 Xiaohai Dai Fabric数据层及其他介绍 - Download   20200921 Rui Han Hyperledger transaction flow - Download   20200924 Jian Chang HotRing: A Hotspot-Aware In- Memory Key-Value Store FAST&amp;rsquo;20 Download   20201009 Rui Han HyperService: Interoperability and Programmability Across Heterogeneous Blockchain CCS&amp;rsquo;19 Download   20201105 Junpei Ni The Honey Badger of BFT Protocols CCS&amp;rsquo;16 Download   20201105 Jian Chang Smart Contract in Fabric - Download   20201112 Shuohua Dong Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization INFOCOM&amp;rsquo;18 Download   20201118 Jiajie Zhang Shrec: bandwidth-efficient transaction relay in high-throughput blockchain systems SoCC&amp;rsquo;20 Download   20201119 Shijie Zhang Hyperledger Cactus - Download   20201126 Xiaohai Dai Research on Blockchain- A Summary - Download   20201126 Wenhui Yang 图示区块链总结 - Download   20201203 Chaofan Wang SkyChain:A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System ICPP&amp;rsquo;20 Download   20201210 Chenchen Li Understanding Ethereum via Graph Analysis INFOCOM&amp;rsquo;18 Download   20201210 Junpei Ni Paxos made Simple ACM Sigact News, 2001 Download   20201216 Shuohua Dong Blockene: A High Throughput Blockchain over Mobile Devices OSDI&amp;rsquo;20 Download   20201218 Shijie Zhang Byzantine Ordere Consensus without Byzantine Oligarchy OSDI&amp;rsquo;20 Download    </description>
       </item>
       
       <item>
         <title>2020 Spring</title>
-        <link>https://BCTSGroup.github.io/research/group-meeting/2020/2020_spring/</link>
+        <link>https://BCTSGroup.github.io/research/2020/2020_spring/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/research/group-meeting/2020/2020_spring/</guid>
+        <guid>https://BCTSGroup.github.io/research/2020/2020_spring/</guid>
         <description>Date Lecturers Paper title Conference Slides     20200302 Rui Han RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding IoTJ&amp;rsquo;20 Download   20200312 Jian Chang FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs SGMOD&amp;rsquo;10 Download   20200318 Chenchen Li Who Are the Phishers? Phishing Scam Detection on Ethereum via Network Embedding TSMC&amp;rsquo;20 Download   20200326 Chaofan Wang Market Manipulation of Bitcoin: Evidence from Mining the Mt.</description>
       </item>
       
       <item>
         <title>2021 Spring</title>
-        <link>https://BCTSGroup.github.io/research/group-meeting/2021/2021_spring/</link>
+        <link>https://BCTSGroup.github.io/research/2021/2021_spring/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
-        <guid>https://BCTSGroup.github.io/research/group-meeting/2021/2021_spring/</guid>
+        <guid>https://BCTSGroup.github.io/research/2021/2021_spring/</guid>
         <description>   Date Lecturers Paper title Conference Slides     20210225 Jiajie Zeng FSTR-Funds Skewness Aware Transaction Routing DSN&amp;rsquo;20 Download   20210225 Xiaohai Dai HotStuff- BFT Consensus with Linearity and Responsiveness PODC&amp;rsquo;19 Download   20210304 Rui Han LedgerDB - a centralized ledger database for universal audit and verification VLDB&amp;rsquo;20 Download   20210311 Bingru Si Perigee-Efficient Peer-to-Peer Network Design for Blockchains PODC&amp;rsquo;20 Download   20210311 Shuohua Dong High Throughput Cryptocurrency Routing in Payment Channel Networks NSDI&amp;rsquo;20 Download    </description>
       </item>
       
       <item>
-        <title>Activities</title>
-        <link>https://BCTSGroup.github.io/research/contribution/activities/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/activities/</guid>
-        <description> IEEE Blockchain Newsletter特邀编委 CCGrid BCTS区块链技术与系统研讨会程序委员会主席，2020. 第七届CCF大数据学术会议宣传主席，2019. IEEE MSN宣传主席，2019. BlockApp区块链技术与应用研讨会程序委员会主席，2019. IEEE ICPADS BCTS区块链技术与系统研讨会程序委员会主席，2017，2018.  </description>
-      </item>
-      
-      <item>
-        <title>Aplications</title>
-        <link>https://BCTSGroup.github.io/research/contribution/applications/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/applications/</guid>
-        <description>( BookChain ) The current mobile bookcrossing system generally has problems such as lack of trust, ineffective supervision, and low circulation efficiency, which have seriously affected the normal operation of bookcrossing. BookChain integrates bookcrossing activities with emerging blockchain technology, leverages the open, transparent, traceable, and decentralized characteristics of the blockchain to record the circulation information of books on the chain, so that participants can trace the historical circulation records of books, greatly reducing the possibility of losing books and rebuilding the trust in bookcrossing.</description>
-      </item>
-      
-      <item>
-        <title>Awards</title>
-        <link>https://BCTSGroup.github.io/research/contribution/awards/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/awards/</guid>
-        <description> The 14th International Conference on Green, Pervasive, and Cloud Computing (GPC) 会议唯一最佳论文奖，2019. 金链盟中国区块链应用大赛优秀创意奖，2018.  </description>
-      </item>
-      
-      <item>
-        <title>Evaluation Tools</title>
-        <link>https://BCTSGroup.github.io/research/contribution/evaluation-tools/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/evaluation-tools/</guid>
-        <description>BlockSim ( BlockSim ) A blockchain network simulator, which can be used for blockchain network protocol verification.
-BlockSim has been developed with extreme scalability and support for network dynamically change in mind. It is composed of the event-driven engine, which is supported by many simple, extendable, and pluggable components (i.e., simulation-network, simulation-consensus, and simulation-data). BlockSim supports structured and unstructured Blockchain P2P network simulation. To simulate different network environments in the blockchain, developers can implement the interfaces provided by BlockSim as needed, which include topological connection, latency setting, network broadcast algorithm and so on.</description>
-      </item>
-      
-      <item>
-        <title>papers</title>
+        <title>Papers</title>
         <link>https://BCTSGroup.github.io/publications/papers/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
@@ -88,33 +51,6 @@ BlockSim has been developed with extreme scalability and support for network dyn
  Hai Jin, and Jiang Xiao*, Towards Trustworthy Blockchain Systems in the Era of “Internet of Value”: Development, Challenges, and Future Trends. In Science China Information Science (SCIS), 2021, https://doi.org/10.1007/s11432-020-3183-0. (CCF B)
  Jian Chang, Junpei Ni, Jiang Xiao*, Xiaohai Dai, Hai Jin. SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control. In IEEE Internet of Things Journal, 2021. (JCR Q1, IF: 9.936)
  Chaofan Wang, Xiaohai Dai, Jiang Xiao*, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.</description>
-      </item>
-      
-      <item>
-        <title>Patents</title>
-        <link>https://BCTSGroup.github.io/research/contribution/patents/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/patents/</guid>
-        <description> 肖江，戴小海，杨文辉，金海，一种适用于以太坊的用户画像构建方法及系统，专利号：201911295828.3，2020-1-15，中国. 肖江，曾家杰，戴小海，杨文辉，郝威峰，王超凡，金海，一种基于区块链技术的图书漂流方法及系统，专利号：201911133428.2，2019-12-23，中国. 陆枫，甘露，肖江，金海，胡侃，一种基于区块链的数据读写方法及区块链网络结构，专利号：201910323667.8，2019-4-22，中国. 肖江, 杨文辉，戴小海，金海，一种基于DAG的区块链的跨链交互方法和系统，专利号：201911099003.4，2019-1-19，中国.  </description>
-      </item>
-      
-      <item>
-        <title>Projects</title>
-        <link>https://BCTSGroup.github.io/research/contribution/projects/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/projects/</guid>
-        <description>Basic Structure Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
-      </item>
-      
-      <item>
-        <title>Publications</title>
-        <link>https://BCTSGroup.github.io/research/contribution/publications/</link>
-        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://BCTSGroup.github.io/research/contribution/publications/</guid>
-        <description>Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han, Hai Jin, “LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin“, IEEE ICDCS, Singapore, 2020. Weifeng Hao, Jiajie Zeng, Xiaohai Dai, Jiang Xiao, Qiang-Sheng Hua, Hanhua Chen, Kuan-Ching Li, Hai Jin, “Towards A Trust-Enhanced Blockchain P2P Topology for Enabling Fast and Reliable Broadcast”, IEEE TNSM, 2020. Wenhui Yang, Xiaohai Dai, Jiang Xiao, Hai Jin, “LDV: A Lightweight DAG-based Blockchain for Vehicular Social Networks“, IEEE TVT, 2020.</description>
       </item>
       
       <item>

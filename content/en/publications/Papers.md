@@ -1,5 +1,5 @@
 ---
-title: "papers"
+title: "Papers"
 description: ""
 date: 2020-12-10T00:10:48+09:00
 draft: false
@@ -30,5 +30,5 @@ weight: 1
 
 11. Jiajie Zeng, Xiaohai Dai, **Jiang Xiao\***, Wenhui Yang, Weifeng Hao and Hai Jin. **“[<font color=CornflowerBlue>BookChain: Library-free Book Sharing Based on Blockchain Technology</font>](https://bctsgroup.github.io/pdf/BookChain.pdf)”**. In Proceedings of the 15th International Conference on Mobile Ad-hoc and Sensor Networks (**IEEE MSN**), 2019.
 
-      
+  ​    
 
