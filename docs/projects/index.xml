@@ -20,7 +20,8 @@
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/projects/research-projects/</guid>
-        <description>Basic Structure Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
+        <description>Basic Structure ![basic structure](https://bctsgroup.github.io/images/contributions/basic structure.jpg)
+Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
       </item>
       
       <item>
