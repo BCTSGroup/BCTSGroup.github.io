@@ -15,12 +15,21 @@
     
       
       <item>
+        <title>2021 Fall</title>
+        <link>https://BCTSGroup.github.io/research/2021/2021_fall/</link>
+        <pubDate>Sat, 11 Dec 2021 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/research/2021/2021_fall/</guid>
+        <description>   Date Lecturers Paper title Conference Slides     20211012 Hanrui Pyramid: A Layered Sharding Blockchain System INFOCOM&#39;21 Download   20211019 Shijie SlimChain: Scaling Blockchain Transactions through Off-Chain Storage and Parallel Processing VLDB&#39;21 Download   20211019 Shuohua A Weak Consensus Algorithm and Its Application to High-Performance Blockchain INFOCOM&#39;21 Download   20211026 Chengfeng User Distributions in Shard-based Blockchain Network- Queueing Modeling, Game Analysis, and Protocol Design MobiHoc&#39;21 Download   20211026 Jingtao Prism: Deconstructing the Blockchain to Approach Physical Limits PODC&#39;21 Download   20211102 Junpei An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts ATC&#39;21 Download   20211109 Changjian Bringing Decentralized Search to Decentralized Services OSDI&#39;21 Download   20211116 Chenchen The Anatomy of a Cryptocurrency Pump-and-Dump Scheme Security’19 Download   20211116 Minrui Investigating MMM Ponzi Scheme on Bitcoin CCS’20 Download   20211123 Bingru All You Need is DAG PODC&#39;21 Download   20211123 Yifei Towards Understanding Cryptocurrency Derivatives:A Case Study of BitMEX WWW&#39;21 Download   20211130 Enping PEEP: A Parallel Execution Engine for Permissioned Blockchain Systems DASFAA&#39;21 Download   20211130 Binhong Authenticated Range Query Using SGX for Blockchain Light Clients DASFAA&#39;20 Download    </description>
+      </item>
+      
+      <item>
         <title>2020 Fall</title>
         <link>https://BCTSGroup.github.io/research/2020/2020_fall/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/research/2020/2020_fall/</guid>
-        <description>   Date Lecturers Paper title Conference Slides     20200902 Chenchen Li A Data Science Approach for Detecting Honeypots in Ethereum ICBC&amp;rsquo;20 Download   20200902 Jiajie Zeng Hyperledger Fabric – Network - Download   20200917 Shijie Zhang Erlay: Efficient Transaction Relay for Bitcoin CCS&amp;rsquo;19 Download   20200917 Xiaohai Dai Fabric数据层及其他介绍 - Download   20200921 Rui Han Hyperledger transaction flow - Download   20200924 Jian Chang HotRing: A Hotspot-Aware In- Memory Key-Value Store FAST&amp;rsquo;20 Download   20201009 Rui Han HyperService: Interoperability and Programmability Across Heterogeneous Blockchain CCS&amp;rsquo;19 Download   20201105 Junpei Ni The Honey Badger of BFT Protocols CCS&amp;rsquo;16 Download   20201105 Jian Chang Smart Contract in Fabric - Download   20201112 Shuohua Dong Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization INFOCOM&amp;rsquo;18 Download   20201118 Jiajie Zhang Shrec: bandwidth-efficient transaction relay in high-throughput blockchain systems SoCC&amp;rsquo;20 Download   20201119 Shijie Zhang Hyperledger Cactus - Download   20201126 Xiaohai Dai Research on Blockchain- A Summary - Download   20201126 Wenhui Yang 图示区块链总结 - Download   20201203 Chaofan Wang SkyChain:A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System ICPP&amp;rsquo;20 Download   20201210 Chenchen Li Understanding Ethereum via Graph Analysis INFOCOM&amp;rsquo;18 Download   20201210 Junpei Ni Paxos made Simple ACM Sigact News, 2001 Download   20201216 Shuohua Dong Blockene: A High Throughput Blockchain over Mobile Devices OSDI&amp;rsquo;20 Download   20201218 Shijie Zhang Byzantine Ordere Consensus without Byzantine Oligarchy OSDI&amp;rsquo;20 Download    </description>
+        <description>   Date Lecturers Paper title Conference Slides     20200902 Chenchen Li A Data Science Approach for Detecting Honeypots in Ethereum ICBC&#39;20 Download   20200902 Jiajie Zeng Hyperledger Fabric – Network - Download   20200917 Shijie Zhang Erlay: Efficient Transaction Relay for Bitcoin CCS&#39;19 Download   20200917 Xiaohai Dai Fabric数据层及其他介绍 - Download   20200921 Rui Han Hyperledger transaction flow - Download   20200924 Jian Chang HotRing: A Hotspot-Aware In- Memory Key-Value Store FAST&#39;20 Download   20201009 Rui Han HyperService: Interoperability and Programmability Across Heterogeneous Blockchain CCS&#39;19 Download   20201105 Junpei Ni The Honey Badger of BFT Protocols CCS&#39;16 Download   20201105 Jian Chang Smart Contract in Fabric - Download   20201112 Shuohua Dong Searching an Encrypted Cloud Meets Blockchain: A Decentralized, Reliable and Fair Realization INFOCOM&#39;18 Download   20201118 Jiajie Zhang Shrec: bandwidth-efficient transaction relay in high-throughput blockchain systems SoCC&#39;20 Download   20201119 Shijie Zhang Hyperledger Cactus - Download   20201126 Xiaohai Dai Research on Blockchain- A Summary - Download   20201126 Wenhui Yang 图示区块链总结 - Download   20201203 Chaofan Wang SkyChain:A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System ICPP&#39;20 Download   20201210 Chenchen Li Understanding Ethereum via Graph Analysis INFOCOM&#39;18 Download   20201210 Junpei Ni Paxos made Simple ACM Sigact News, 2001 Download   20201216 Shuohua Dong Blockene: A High Throughput Blockchain over Mobile Devices OSDI&#39;20 Download   20201218 Shijie Zhang Byzantine Ordere Consensus without Byzantine Oligarchy OSDI&#39;20 Download    </description>
       </item>
       
       <item>
@@ -29,7 +38,7 @@
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/research/2020/2020_spring/</guid>
-        <description>Date Lecturers Paper title Conference Slides     20200302 Rui Han RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding IoTJ&amp;rsquo;20 Download   20200312 Jian Chang FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs SGMOD&amp;rsquo;10 Download   20200318 Chenchen Li Who Are the Phishers? Phishing Scam Detection on Ethereum via Network Embedding TSMC&amp;rsquo;20 Download   20200326 Chaofan Wang Market Manipulation of Bitcoin: Evidence from Mining the Mt.</description>
+        <description>Date Lecturers Paper title Conference Slides     20200302 Rui Han RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding IoTJ&#39;20 Download   20200312 Jian Chang FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs SGMOD&#39;10 Download   20200318 Chenchen Li Who Are the Phishers? Phishing Scam Detection on Ethereum via Network Embedding TSMC&#39;20 Download   20200326 Chaofan Wang Market Manipulation of Bitcoin: Evidence from Mining the Mt.</description>
       </item>
       
       <item>
@@ -38,7 +47,7 @@
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/research/2021/2021_spring/</guid>
-        <description>   Date Lecturers Paper title Conference Slides     20210225 Jiajie Zeng FSTR-Funds Skewness Aware Transaction Routing DSN&amp;rsquo;20 Download   20210225 Xiaohai Dai HotStuff- BFT Consensus with Linearity and Responsiveness PODC&amp;rsquo;19 Download   20210304 Rui Han LedgerDB - a centralized ledger database for universal audit and verification VLDB&amp;rsquo;20 Download   20210311 Bingru Si Perigee-Efficient Peer-to-Peer Network Design for Blockchains PODC&amp;rsquo;20 Download   20210311 Shuohua Dong High Throughput Cryptocurrency Routing in Payment Channel Networks NSDI&amp;rsquo;20 Download   20210318 Junpei Ni Ghostor- Toward a Secure Data-Sharing System from Decentral-ized Trust NSDI&amp;rsquo;20 Download   20210318 Feng Cheng ResilientDB-GlobalScaleResilientBlockchain Fabric VLDB‘20 Download   20210325 Xiaohai Dai Dumbo: Faster Asynchronous BFT Protocols CCS&amp;rsquo;20 Download   20210325 Chenchen Li Tight Consistency Bounds for Bitcoin CCS;20 -   20210401 Jian Chang Ekiden: A Platform for Confidentiality- Preserving, Trustworthy, and Performant Smart Contracts S&amp;amp;P&amp;rsquo;20 Download   20210401 Shijie Zhang SBFT: a Scalable and Decentralized Trust Infrastructure DSN&amp;rsquo;20 Download   20210408 Rui Han BFT-Store: Storage partition for permis- sioned blockchain via erasure coding ICDE&amp;rsquo;20 Download   20210408 Jingtao Yue OHIE: Blockchain Scaling Made Simple S&amp;amp;P&amp;rsquo;20 Download   20210415 Bingru Si Fair and Efficient Gos- sip in Hyperledger Fab-ric ICDCS&amp;rsquo;20 Download   20210415 Shuohua Dong EPIC: Efficient Asyn-chronous BFT with Adaptive Security DSN&amp;rsquo;20 Download   20210422 Junpei Ni Blockchain Based Auditable Access Control for Distributed Business Processes ICDCS&amp;rsquo;20 Download   20210429 Feng Chen Mneme: A Mobile Distributed Ledger INFOCOM&amp;rsquo;20 Download   20210429 Xiaohai Dai Zyzzyva- speculative Byzantine fault tolerance SOSP&amp;rsquo;07 Download   20210513 Chenchen Li Towards Understand- ing and Demystifying Bitcoin Mixing Services WWW&amp;rsquo;21 Download   20210513 Jian Chang BITE: Bitcoin Lightweight Client Privacy using Trusted Execution USENIX Security&amp;rsquo;19 Download   20210520 Shijie Zhang Microsecond Consen- sus for Microsecond Applications OSDI&amp;rsquo;20 Download   20210520 Rui Han Enabling Reliable Key- word Search in En- crypted Decentralized Storage with Fairness TDSC&amp;rsquo;18 Download   20210527 JIngtai Yue Sync HotStuff: Sim- ple and Practical Synchronous State Ma- chine Replication SP&amp;rsquo;20 Download   20210603 Bingru Si Graphene: Efficient Interactive Set Rec- onciliation Applied to Blockchain Propagation SIGCOMM&amp;rsquo;19 Download   20210603 Junpei Ni Droplet: Decentralized Authorization and Access Control for En- crypted Data Streams USENIX Security&amp;rsquo;20 Download   20210610 Shuohua Dong Mneme A Mobile Distributed Ledger INFOCOM&amp;rsquo;20 Download   20210617 Feng Cheng CycLedger A Scalable and Secure Parral Pro- tocol for Distributed Ledger via Sharding IPDPS&amp;rsquo;20 Download   20210701 Xiaohai Dai DenseChain: Faster Transaction Processing in Public Blockchains ATC&amp;rsquo;21 Download       [Download]()    </description>
+        <description>   Date Lecturers Paper title Conference Slides     20210225 Jiajie Zeng FSTR-Funds Skewness Aware Transaction Routing DSN&#39;20 Download   20210225 Xiaohai Dai HotStuff- BFT Consensus with Linearity and Responsiveness PODC&#39;19 Download   20210304 Rui Han LedgerDB - a centralized ledger database for universal audit and verification VLDB&#39;20 Download   20210311 Bingru Si Perigee-Efficient Peer-to-Peer Network Design for Blockchains PODC&#39;20 Download   20210311 Shuohua Dong High Throughput Cryptocurrency Routing in Payment Channel Networks NSDI&#39;20 Download   20210318 Junpei Ni Ghostor- Toward a Secure Data-Sharing System from Decentral-ized Trust NSDI&#39;20 Download   20210318 Feng Cheng ResilientDB-GlobalScaleResilientBlockchain Fabric VLDB‘20 Download   20210325 Xiaohai Dai Dumbo: Faster Asynchronous BFT Protocols CCS&#39;20 Download   20210325 Chenchen Li Tight Consistency Bounds for Bitcoin CCS;20 -   20210401 Jian Chang Ekiden: A Platform for Confidentiality- Preserving, Trustworthy, and Performant Smart Contracts S&amp;amp;P&#39;20 Download   20210401 Shijie Zhang SBFT: a Scalable and Decentralized Trust Infrastructure DSN&#39;20 Download   20210408 Rui Han BFT-Store: Storage partition for permis- sioned blockchain via erasure coding ICDE&#39;20 Download   20210408 Jingtao Yue OHIE: Blockchain Scaling Made Simple S&amp;amp;P&#39;20 Download   20210415 Bingru Si Fair and Efficient Gos- sip in Hyperledger Fab-ric ICDCS&#39;20 Download   20210415 Shuohua Dong EPIC: Efficient Asyn-chronous BFT with Adaptive Security DSN&#39;20 Download   20210422 Junpei Ni Blockchain Based Auditable Access Control for Distributed Business Processes ICDCS&#39;20 Download   20210429 Feng Chen Mneme: A Mobile Distributed Ledger INFOCOM&#39;20 Download   20210429 Xiaohai Dai Zyzzyva- speculative Byzantine fault tolerance SOSP&#39;07 Download   20210513 Chenchen Li Towards Understand- ing and Demystifying Bitcoin Mixing Services WWW&#39;21 Download   20210513 Jian Chang BITE: Bitcoin Lightweight Client Privacy using Trusted Execution USENIX Security&#39;19 Download   20210520 Shijie Zhang Microsecond Consen- sus for Microsecond Applications OSDI&#39;20 Download   20210520 Rui Han Enabling Reliable Key- word Search in En- crypted Decentralized Storage with Fairness TDSC&#39;18 Download   20210527 JIngtai Yue Sync HotStuff: Sim- ple and Practical Synchronous State Ma- chine Replication SP&#39;20 Download   20210603 Bingru Si Graphene: Efficient Interactive Set Rec- onciliation Applied to Blockchain Propagation SIGCOMM&#39;19 Download   20210603 Junpei Ni Droplet: Decentralized Authorization and Access Control for En- crypted Data Streams USENIX Security&#39;20 Download   20210610 Shuohua Dong Mneme A Mobile Distributed Ledger INFOCOM&#39;20 Download   20210617 Feng Cheng CycLedger A Scalable and Secure Parral Pro- tocol for Distributed Ledger via Sharding IPDPS&#39;20 Download   20210701 Xiaohai Dai DenseChain: Faster Transaction Processing in Public Blockchains ATC&#39;21 Download       Download    </description>
       </item>
       
       <item>
@@ -48,9 +57,9 @@
         
         <guid>https://BCTSGroup.github.io/publications/papers/</guid>
         <description>(*=corresponding author)
-Journal  [SCIS]: Hai Jin, and Jiang Xiao*, Towards Trustworthy Blockchain Systems in the Era of “Internet of Value”: Development, Challenges, and Future Trends. In Science China Information Science (SCIS), 2021, https://doi.org/10.1007/s11432-020-3183-0.
- [IoTJ]: Jian Chang, Junpei Ni, Jiang Xiao*, Xiaohai Dai, Hai Jin. SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control. In IEEE Internet of Things Journal, 2021. (JCR Q1, IF: 9.936)
- [FCS]: Chaofan Wang, Xiaohai Dai, Jiang Xiao*, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.</description>
+Journal   [SCIS]: Hai Jin, and Jiang Xiao*, Towards Trustworthy Blockchain Systems in the Era of “Internet of Value”: Development, Challenges, and Future Trends. In Science China Information Science (**SCIS**), 2021, https://doi.org/10.1007/s11432-020-3183-0.
+  [IoTJ]: Jian Chang, Junpei Ni, Jiang Xiao*, Xiaohai Dai, Hai Jin. SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control. In IEEE Internet of Things Journal, 2021. (JCR Q1, IF: 9.936)
+  [FCS]: Chaofan Wang, Xiaohai Dai, Jiang Xiao*, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.</description>
       </item>
       
       <item>
@@ -59,7 +68,8 @@ Journal  [SCIS]: Hai Jin, and Jiang Xiao*, Towards Trustworthy Blockchain System
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
         
         <guid>https://BCTSGroup.github.io/projects/research-projects/</guid>
-        <description>Basic Structure Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
+        <description>Basic Structure ![basic structure](https://bctsgroup.github.io/images/contributions/basic structure.jpg)
+Data model  ( Jidar ) We propose a novel Jigsaw-like Data Reduction (Jidar) approach. Each node in Jidar only stores transactions of interest and relevant Merkle branches from the complete blocks, just like selecting several pieces from the jigsaw puzzles. A node can maintain and verify all its relevant data locally and safely without any trust assumptions. To verify the validity of a newly proposed transaction, Merkle branches relevant to the inputs are provided along with the transaction by the proposer.</description>
       </item>
       
       <item>
@@ -105,9 +115,9 @@ BlockSim has been developed with extreme scalability and support for network dyn
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://BCTSGroup.github.io/blog/markdown-syntax/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
       </item>
       
@@ -117,9 +127,9 @@ caluere tempus&lt;/p&gt;</description>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://BCTSGroup.github.io/blog/rich-content/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
       </item>
       
@@ -129,9 +139,9 @@ caluere tempus&lt;/p&gt;</description>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://BCTSGroup.github.io/blog/placeholder-text/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
       </item>
       
@@ -141,9 +151,9 @@ caluere tempus&lt;/p&gt;</description>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://BCTSGroup.github.io/blog/emoji-support/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
       </item>
       
