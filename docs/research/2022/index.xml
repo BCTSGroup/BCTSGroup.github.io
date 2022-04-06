@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on BCTS</title>
+    <link>https://BCTSGroup.github.io/research/2022/</link>
+    <description>Recent content in 2022 on BCTS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://BCTSGroup.github.io/research/2022/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>2021 Spring</title>
+        <link>https://BCTSGroup.github.io/research/2022/2022_spring/</link>
+        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/research/2022/2022_spring/</guid>
+        <description>   Date Lecturers Paper title Conference Slides     20220301 Liping Bidl- A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks SOSP&#39;21 Download   20220308 Enping FASTBLOCK: Accelerating Blockchains via Hardware Transactional Memory ICDCS&#39;21 Download   20220308 Shijie Scaling Blockchains Using Pipelined Execution and Sparse Peers SoCC’21 Download   20220315 Shuohua Leaderless Consensus ICDCS’21 Download   20220315 Zhaonan Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation SOSP&#39;21 Download   20220322 Jingtao SharPer: Sharding Permissioned Blockchains Over Network Clusters SIGMOD&#39;21 Download   20220322 Chengfeng Elastic Resource Allocation against Imbalanced Transaction Assignments in Sharding-based Permissioned Blockchains TPDS&#39;22 Download   20220402 Changjian Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains ICDE&#39;21 Download                                                                                                                                                       </description>
+      </item>
+      
+    
+  </channel>
+</rss>
