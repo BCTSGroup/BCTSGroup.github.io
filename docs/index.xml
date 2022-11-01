@@ -51,6 +51,15 @@
       </item>
       
       <item>
+        <title>2022 Fall</title>
+        <link>https://BCTSGroup.github.io/research/2022/2022_fall/</link>
+        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/research/2022/2022_fall/</guid>
+        <description>Date Lecturers Paper title Conference Slides     20220823 Bingru TIPS: Transaction Inclusion Protocol with Signaling in DAG-based Blockchain JSAC&#39;22 Download   20220907 Yuandi Bullshark: DAG BFT Protocols Made Practical CCS&#39;22 Download   20220909 Chuwu BitcoinHeist: Topological Data Analysis for Ransomware Detection on the Bitcoin Blockchain  Download   20220914 Licheng ALEX: An Updatable Adaptive Learned Index SIGMOD&#39;20 Download   20220916 Chenchen A2MM: Mitigating Frontrunning, Transaction Reordering and Consensus Instability in Decentralized Exchanges  Download   20220920 Yifan Mixing Transactions with Arbitrary Values on Blockchains ICDE&#39;22 Download   20220923 Chenchen Token Spammers, Rug Pulls, and SniperBots: An Analysis of the?</description>
+      </item>
+      
+      <item>
         <title>2022 Spring</title>
         <link>https://BCTSGroup.github.io/research/2022/2022_spring/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
@@ -66,9 +75,7 @@
         
         <guid>https://BCTSGroup.github.io/publications/papers/</guid>
         <description>(*=corresponding author)
-Journal   [SCIS]: Hai Jin, and Jiang Xiao*, Towards Trustworthy Blockchain Systems in the Era of “Internet of Value”: Development, Challenges, and Future Trends. In Science China Information Science (SCIS), 2021, https://doi.org/10.1007/s11432-020-3183-0.
-  [IoTJ]: Jian Chang, Junpei Ni, Jiang Xiao*, Xiaohai Dai, Hai Jin. SynergyChain: A Multichain-based Data Sharing Framework with Hierarchical Access Control. In IEEE Internet of Things Journal, 2021. (JCR Q1, IF: 9.936)
-  [FCS]: Chaofan Wang, Xiaohai Dai, Jiang Xiao*, Chenchen Li, Ming Wen, Bingbing Zhou, and Hai Jin.</description>
+ Hai Jin, Chenchen Li, Jiang Xiao*, Teng Zhang, Xiaohai Dai, and Bo Li. Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning. In IEEE Journal on Selected Areas in Communications (JSAC 2022). 2022. DOI: 10.1109/JSAC.2022.3213335（CCF A） Jiang Xiao, Shijie Zhang, Zhiwei Zhang, Bo Li, Xiaohai Dai, and Hai Jin. Nezha: Exploiting Concurrency for Transaction Processing in DAG-based Blockchains, In Proceedings of 42nd IEEE International Conferene on Distributed Computing Systems (IEEE ICDCS), 2022.</description>
       </item>
       
       <item>

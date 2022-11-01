@@ -15,6 +15,15 @@
     
       
       <item>
+        <title>2022 Fall</title>
+        <link>https://BCTSGroup.github.io/research/2022/2022_fall/</link>
+        <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
+        
+        <guid>https://BCTSGroup.github.io/research/2022/2022_fall/</guid>
+        <description>Date Lecturers Paper title Conference Slides     20220823 Bingru TIPS: Transaction Inclusion Protocol with Signaling in DAG-based Blockchain JSAC&#39;22 Download   20220907 Yuandi Bullshark: DAG BFT Protocols Made Practical CCS&#39;22 Download   20220909 Chuwu BitcoinHeist: Topological Data Analysis for Ransomware Detection on the Bitcoin Blockchain  Download   20220914 Licheng ALEX: An Updatable Adaptive Learned Index SIGMOD&#39;20 Download   20220916 Chenchen A2MM: Mitigating Frontrunning, Transaction Reordering and Consensus Instability in Decentralized Exchanges  Download   20220920 Yifan Mixing Transactions with Arbitrary Values on Blockchains ICDE&#39;22 Download   20220923 Chenchen Token Spammers, Rug Pulls, and SniperBots: An Analysis of the?</description>
+      </item>
+      
+      <item>
         <title>2022 Spring</title>
         <link>https://BCTSGroup.github.io/research/2022/2022_spring/</link>
         <pubDate>Thu, 10 Dec 2020 00:10:48 +0900</pubDate>
